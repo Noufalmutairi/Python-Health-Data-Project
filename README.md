@@ -1,10 +1,10 @@
 # Health Data Project
 
 ## Overview
-The Health Data Project explores and analyzes synthetic health data. The dataset contains information about patients, including their age, gender, medical conditions, test results, medications, insurance providers, admission types, admission dates, discharge dates, and billing amounts.
+The Health Data Project explores and analyzes synthetic health data. The dataset contains information about patients, including their age, gender, medical conditions, test results, medications, insurance providers, admission types, admission dates, discharge dates,billing amounts and Length of stay.
 
 ## Dataset
-The dataset (`Ha_dataset.csv`) contains 770 rows and 11 columns.
+The dataset (`Ha_dataset.csv`) contains 770 rows and 12 columns.
 
 ### Data Dictionary:
 - **ID**: Unique identifier for each patient.
@@ -18,6 +18,7 @@ The dataset (`Ha_dataset.csv`) contains 770 rows and 11 columns.
 - **Admission Type**: Type of admission for the patient (Emergency/Elective/Urgent).
 - **Admission Date**: Date of admission for the patient.
 - **Discharge Date**: Date of discharge for the patient.
+- **Length of Stay**: Length of stay in days for the patient.
 
 ## Analysis
 The Health Data Project includes exploratory data analysis (EDA) to gain insights into the dataset. It covers various aspects such as data cleaning, univariate analysis, bivariate analysis, and multivariate analysis.
