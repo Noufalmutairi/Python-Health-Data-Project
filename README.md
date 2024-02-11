@@ -1,4 +1,4 @@
-# Health Data Project
+# Health Data Project | Exploratory Data Analysis using Python
 
 ## Overview
 The Health Data Project explores and analyzes synthetic health data. The dataset contains information about patients, including their age, gender, medical conditions, test results, medications, insurance providers, admission types, admission dates, discharge dates,billing amounts and Length of stay.
