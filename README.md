@@ -37,5 +37,8 @@ The Health Data Project includes exploratory data analysis (EDA) to gain insight
   - Seaborn
 
 
+## Additional Resources
+- Read the article for deeper understanding: [Health Dataset Exploratory Data Analysis (EDA) using Python](https://www.linkedin.com/pulse/health-dataset-exploratory-data-analysis-eda-using-python-almutairi-jbfqe/)
+
 ## Contact Information
 Feel free to contact: [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/) on LinkedIn.
