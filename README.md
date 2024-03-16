@@ -7,20 +7,6 @@ The Health Data Project explores and analyzes synthetic health data. The dataset
 The dataset (`Ha_dataset.csv`) contains 770 rows and 12 columns.
 Note: this dataset is synthetic , just for practising Analysis skills.
 
-### Data Dictionary:
-- **ID**: Unique identifier for each patient.
-- **Age**: Age of the patient.
-- **Gender**: Gender of the patient (Male/Female).
-- **Medical Condition**: Medical condition(s) diagnosed for the patient.
-- **Test Result**: Result of the diagnostic test performed for the patient.
-- **Medication**: Medication prescribed to the patient.
-- **Insurance Provider**: Insurance provider for the patient.
-- **Amount Billing**: Billing amount for the patient's healthcare services.
-- **Admission Type**: Type of admission for the patient (Emergency/Elective/Urgent).
-- **Admission Date**: Date of admission for the patient.
-- **Discharge Date**: Date of discharge for the patient.
-- **Length of Stay**: Length of stay in days for the patient.
-
 
 ### Exploratory Data Analysis (EDA):
 - Data Cleaning: Handling missing values, duplicates, and standardizing data formats.
