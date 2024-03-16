@@ -20,8 +20,6 @@ The dataset (`Ha_dataset.csv`) contains 770 rows and 12 columns.
 - **Discharge Date**: Date of discharge for the patient.
 - **Length of Stay**: Length of stay in days for the patient.
 
-## Analysis
-The Health Data Project includes exploratory data analysis (EDA) to gain insights into the dataset. It covers various aspects such as data cleaning, univariate analysis, bivariate analysis, and multivariate analysis.
 
 ### Exploratory Data Analysis (EDA):
 - Data Cleaning: Handling missing values, duplicates, and standardizing data formats.
