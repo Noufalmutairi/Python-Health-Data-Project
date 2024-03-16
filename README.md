@@ -5,6 +5,7 @@ The Health Data Project explores and analyzes synthetic health data. The dataset
 
 ## Dataset
 The dataset (`Ha_dataset.csv`) contains 770 rows and 12 columns.
+Note: this dataset is synthetic , just for practising Analysis skills.
 
 ### Data Dictionary:
 - **ID**: Unique identifier for each patient.
