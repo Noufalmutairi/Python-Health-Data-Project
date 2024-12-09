@@ -26,4 +26,4 @@ Note: this dataset is synthetic , just for practising Analysis skills.
 - Read the article for deeper understanding: [Health Dataset Exploratory Data Analysis (EDA) using Python](https://www.linkedin.com/pulse/health-dataset-exploratory-data-analysis-eda-using-python-almutairi-jbfqe/)
 
 ## Contact Information:
-Feel free to contact: [Nouf Almutairi](https://www.linkedin.com/in/nouf-almutairi-5671132a2/) on LinkedIn
+Feel free to contact: [Nouf Almutairi](https://www.linkedin.com/in/noufalmutairih1/) on LinkedIn
